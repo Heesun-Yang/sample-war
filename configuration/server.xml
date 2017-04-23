@@ -15,7 +15,7 @@
 
     <dataSource id="DefaultDataSource" jndiName="jdbc/mySQL">
 	    <jdbcDriver libraryRef="MySQLLib"/>
-	    <properties databaseName="ingdb" serverName="10.1.2.4" portNumber="3306" user="inguser" password="inguser"/>
+	    <properties databaseName="ingdb" serverName="172.30.4.81" portNumber="3306" user="inguser" password="inguser"/>
 	</dataSource>
 	 
 	<library id="MySQLLib">
