@@ -1,1 +1,1 @@
-# sample-war
+# sample-war for tomcat
